@@ -14,7 +14,7 @@
 ---
 
 ### Data description:
-		This folder contains 5 Matlab files used in the field test associated with the paper in review. These files are:
+	This folder contains 5 Matlab files used in the field test associated with the paper in review. These files are:
 			* camera_intrinsic_matrix.mat
 			* ground_truth.mat
 			* angular_vel.mat

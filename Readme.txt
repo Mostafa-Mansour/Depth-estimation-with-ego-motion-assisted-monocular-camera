@@ -1,31 +1,33 @@
 
-Supplementary Data
+# Supplementary Data
 
-Manuscript title: Depth estimation with ego-motion assisted monocular camera
+## Manuscript title: Depth estimation with ego-motion assisted monocular camera
 
-Authors:
-	- Mostafa Mansour
-	- Pavel Davidson
-	- Oleg Stepanov
-	- Jukka-Pekka Raunio
-	- Mohammad M. Aref
-	- Robert Piché
+### Authors:
+		* Mostafa Mansour
+		* Pavel Davidson
+		* Oleg Stepanov
+		* Jukka-Pekka Raunio
+		* Mohammad M. Aref
+		* Robert Piché
 
+---
 
-Data description:
-	This folder contains 5 Matlab files used in the field test associated with the paper in review. These files are:
-		- camera_intrinsic_matrix.mat
-		- ground_truth.mat
-		- angular_vel.mat
-		- linear_vel.mat
-		- image_points.mat.
+### Data description:
+		This folder contains 5 Matlab files used in the field test associated with the paper in review. These files are:
+			* camera_intrinsic_matrix.mat
+			* ground_truth.mat
+			* angular_vel.mat
+			* linear_vel.mat
+			* image_points.mat.
 
 	The content of each of the previous files is described in the following section.
 
+---
 
-Files description:
+### Files description:
 
-	- camera_intinsic_matrix.mat: This file contains the intrinsic calibration parameters of the camera in use.
+	- camera_intrinsic_matrix.mat: This file contains the intrinsic calibration parameters of the camera in use.
 			@params:
 					(cx,cy):	Camera principal point measured in pixels.
 					f: 			Camera focal length measured in pixels.
