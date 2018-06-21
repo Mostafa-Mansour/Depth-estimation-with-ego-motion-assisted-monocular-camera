@@ -27,7 +27,7 @@
 
 ### Files description:
 
-	- camera_intinsic_matrix.mat: This file contains the intrinsic calibration parameters of the camera in use.
+	- camera_intrinsic_matrix.mat: This file contains the intrinsic calibration parameters of the camera in use.
 			@params:
 					(cx,cy):	Camera principal point measured in pixels.
 					f: 			Camera focal length measured in pixels.
